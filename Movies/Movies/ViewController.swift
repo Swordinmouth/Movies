@@ -1,19 +1,11 @@
-//
-//  ViewController.swift
-//  Movies
-//
-//  Created by Valery on 26.07.2021.
-//
+// ViewController.swift
+// Copyright © RoadMap. All rights reserved.
 
 import UIKit
-
+/// Контроллер для списка фильмов
 class ViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
 }
-
